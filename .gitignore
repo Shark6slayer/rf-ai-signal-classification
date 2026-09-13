@@ -1,0 +1,13 @@
+*.o
+*.out
+*.exe
+*.xo
+*.xclbin
+build/
+.Xil/
+.autopilot/
+.cache/
+*.log
+*.jou
+*.wdb
+rf_dataset.csv
